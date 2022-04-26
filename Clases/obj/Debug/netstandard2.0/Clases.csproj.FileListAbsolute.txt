@@ -1,0 +1,9 @@
+C:\Users\equipo\Desktop\TercerExaPra2\SistemaParqueo\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\equipo\Desktop\TercerExaPra2\SistemaParqueo\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\equipo\Desktop\TercerExaPra2\SistemaParqueo\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\equipo\Desktop\TercerExaPra2\SistemaParqueo\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+C:\Users\equipo\Desktop\TercerExaPra2\SistemaParqueo\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\equipo\Desktop\TercerExaPra2\SistemaParqueo\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\equipo\Desktop\TercerExaPra2\SistemaParqueo\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\equipo\Desktop\TercerExaPra2\SistemaParqueo\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\equipo\Desktop\TercerExaPra2\SistemaParqueo\Clases\obj\Debug\netstandard2.0\Clases.pdb
